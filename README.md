@@ -18,7 +18,7 @@ To install and run the project, follow these steps:
    ```
    cd Meme-Displayer-with-Background-Music
    ```
-3. Install the required dependencles using pip
+3. Install the required dependencies using pip
    ```
    pip install -r requirements.txt
    ```
